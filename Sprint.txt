@@ -1,0 +1,12 @@
+		Task         				Name				Task			Estimate
+
+1.Create Two variables By user interaction		Yoshika				Completed		0.5
+
+2.Create functions for Arithmetaic Operations		Yoshika				Completed		0.20	
+
+3.Pass User value in each functions			Yoshika				Completed		0.5
+
+4.Call each function in main.				Yoshika				Completed		0.10
+
+													    Total:-40minutes
+
